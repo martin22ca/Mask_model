@@ -21,10 +21,6 @@ As we decided to create a face mask detector for real time use, we ended up usin
 
 ![](images/The-proposed-MobileNetV2-network-architecture.png)
 
-```python
-BootstrapCCpy(cluster, K, B, n_cores)
-```
-
 ## Getting started
 
 Download this repository
